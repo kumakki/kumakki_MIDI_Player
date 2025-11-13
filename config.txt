@@ -1,0 +1,10 @@
+Speed=4
+AudioMode=1
+DrawMode=1
+WindowWidth=1280
+WindowHeight=748
+FrameRate=144
+ZoomMode=1
+
+Debug:Mode2=0
+Debug:Opacity=0.2
